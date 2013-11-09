@@ -8,7 +8,7 @@ The goal of this project is to create a library that is easy to use and has a lo
 
 1. Download the [complete library and examples](https://github.com/rybotron/EMIT-Quartz-Composer-Library/archive/master.zip)
 
-2. Then copy the contents of the Quartz Composer Patches folder into your Users/YourUsername/Library/Quartz Composer Patches
+2. Then copy the contents of the *Quartz Composer Patches* folder into your *Users/YourUsername/Library/Quartz Composer Patches*
 
 3. Restart Quartz Composer and then start with the Example Compositions in the Examples folder
 
