@@ -15,8 +15,7 @@ The goal of this project is to create a library that is easy to use and has a lo
 
 ## Changelog ##
 
-###r1###
-Initial Release
+###r1### Initial Release
 
 + Iterator Tools
   * Oscillator
