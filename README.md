@@ -1,7 +1,7 @@
 EMIT Quartz Composer Library
 ============================
 
-The goal of this project is to create a library that is easy to use and has a low-level of complexity to get artists building complex reactive and generative graphics faster.
+The goal of this project is to create a library that is easy to use and has a low-level of complexity to get artists building dynamic, reactive, and generative graphics faster.
 
 
 ## Usage ##
