@@ -30,7 +30,7 @@ The goal of this project is to create a library that is easy to use and has a lo
   * BPM Patch Time with Rate and Audio Acceleration
 
 ###r2###
-Changes
+######Changes
 + Iterator Tools
   * Interpolation
     * Added Reverse
@@ -45,7 +45,7 @@ Changes
   * Even X Position
     * Added Reverse order
 
-New
+######New
 + Iterator Tools
   * Color Ordered
   * Iteration Delay
