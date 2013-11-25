@@ -14,4 +14,4 @@ The goal of this project is to create a library that is easy to use and has a lo
 
 
 ### Change log ###
-https://github.com/rybotron/EMIT-Quartz-Composer-Library/releases
+[Releases](https://github.com/rybotron/EMIT-Quartz-Composer-Library/releases)
