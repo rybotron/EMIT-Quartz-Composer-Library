@@ -51,18 +51,18 @@ The goal of this project is to create a library that is easy to use and has a lo
   * Iteration Delay
   * Show Index
   * Iterator Patch Time
-  * Structure Tools
++ Structure Tools
   * XYZ to Structure
   * Structure to XYZ
   * XYZ Structure Smoother
-  * Shapes
++ Shapes
     * Sphere
     * Grid
     * Helix
     * Cook Random Sphere
-  * Number Tools
++ Number Tools
     * XYZ Smoother
-  * After Effects Keyframe Parser
++ After Effects Keyframe Parser
     * AE Script for exporting keyframes from After Effects to XML
     * XML Loader
     * AE XML Parser
