@@ -6,7 +6,7 @@ The goal of this project is to create a library that is easy to use and has a lo
 
 ## Usage ##
 
-1. Download the [complete library and examples](http://bit.ly/HNzYf2)
+1. Download the [complete library and examples](bit.ly/emit-library)
 
 2. Then copy the contents of the *Quartz Composer Patches* folder into your *Users/YourUsername/Library/Quartz Composer Patches*
 
